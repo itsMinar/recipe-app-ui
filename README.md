@@ -1,6 +1,6 @@
 # React Native with Expo
 
-Welcome to this React Native app built using Expo! This app allows you to [briefly describe the purpose or main features of your app].
+Welcome to this React Native app built using Expo!
 
 
 ## Getting Started
